@@ -40,5 +40,4 @@ const db = drizzle(client);
  * Drizzle with Supabase Database
  * https://orm.drizzle.team/docs/tutorials/drizzle-with-supabase
  */
-
 export default db;
