@@ -50,13 +50,13 @@ export function getNavbarLinks(): NestedMenuItem[] {
 
   return [
     {
-      title: t('features.title'),
-      href: Routes.Features,
+      title: t('home.title'),
+      href: Routes.Root,
       external: false,
     },
     {
       title: t('changelog.title'),
-      href: Routes.FAQ,
+      href: Routes.Changelog,
       external: false,
     },
     // {

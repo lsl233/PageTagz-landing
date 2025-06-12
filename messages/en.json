@@ -261,6 +261,9 @@
   },
   "Marketing": {
     "navbar": {
+      "home": {
+        "title": "Home"
+      },
       "features": {
         "title": "Features"
       },
@@ -716,25 +719,25 @@
       "secondaryButton": "See Demo"
     },
     "features": {
-      "title": "Features",
-      "subtitle": "The features of your product",
-      "description": "Write the description of your product here",
+      "title": "PageTagz: Say Goodbye to Clutter, Hello to Easy Saving",
+      "subtitle": "Your Smart Web Bookmark Tool for Anywhere, Anytime, Efficient Management",
+      "description": "Tired of messy browser bookmarks? PageTagz helps you intelligently save web pages with just one click. No matter when or where, on your phone or computer, you can easily open and revisit your saved content. Say goodbye to bookmarking headaches and enjoy the convenience of quick finding and smooth reading!",
       "items": {
         "item-1": {
-          "title": "Product Feature One",
-          "description": "Please write the detailed description of feature one here, make it as detailed as possible, make it more attractive to users"
+          "title": "Smart Tag Management",
+          "description": "PageTagz introduces an innovative way to **organize bookmarks** through **tag-based saving**. Move beyond the limitations of traditional folders by adding multiple custom tags to each web page. This acts like creating countless 'indexes' for your saved content, allowing you to quickly retrieve needed pages from various angles when you need them. Whether it's project resources, study notes, or inspiration, everything is clearly categorized and easy to navigate."
         },
         "item-2": {
-          "title": "Product Feature Two",
-          "description": "Please write the detailed description of feature two here, make it as detailed as possible, make it more attractive to users"
+          "title": "Seamless Cross-Platform Sync",
+          "description": "No matter where you are or what device you're using, PageTagz ensures your saved content is **accessible anytime, anywhere**. Our design philosophy is simple: 'where there's a browser, you can view your content.' This means a web page you save on your computer instantly syncs to your phone or tablet, and vice versa. Achieve truly barrier-free information management, keeping your knowledge within reach."
         },
         "item-3": {
-          "title": "Product Feature Three",
-          "description": "Please write the detailed description of feature three here, make it as detailed as possible, make it more attractive to users"
+          "title": "Powerful Browser Extension",
+          "description": "PageTagz offers a convenient **browser extension**. With just a single click, you can quickly save the web page you're currently viewing to your PageTagz account. The extension also supports smart recognition of web information, automatically suggesting tags to significantly simplify the saving process. It's like your personal bookmarking assistant, ensuring you never miss a page worth saving while Browse amazing content."
         },
         "item-4": {
-          "title": "Product Feature Four",
-          "description": "Please write the detailed description of feature four here, make it as detailed as possible, make it more attractive to users"
+          "title": "100% Open-Source & Transparent",
+          "description": "PageTagz believes in the **power of open-source**. Our project code is fully public, allowing you to review and verify our technical implementations at any time. This means the highest level of transparency and data security, as you don't have to worry about privacy misuse. For developers, you can build upon PageTagz for secondary development or customization, creating a tool perfectly tailored to your needs."
         }
       }
     },

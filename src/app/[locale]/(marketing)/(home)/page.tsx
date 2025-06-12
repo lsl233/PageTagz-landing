@@ -1,5 +1,8 @@
 import CallToActionSection from '@/components/blocks/calltoaction/calltoaction';
 import FaqSection from '@/components/blocks/faqs/faqs';
+import FeaturesSection from '@/components/blocks/features/features';
+import Features2Section from '@/components/blocks/features/features2';
+import Features3Section from '@/components/blocks/features/features3';
 import HeroSection from '@/components/blocks/hero/hero';
 import HomeProblemSection from '@/components/magicui/home-problem';
 import DiscordWidget from '@/components/shared/discord-widget';
@@ -41,7 +44,7 @@ export default async function HomePage(props: HomePageProps) {
       <div className="flex flex-col">
         <HeroSection />
 
-        <HomeProblemSection />
+        {/* <HomeProblemSection /> */}
 
         {/* <LogoCloud /> */}
 
@@ -49,7 +52,7 @@ export default async function HomePage(props: HomePageProps) {
 
         {/* <IntegrationSection /> */}
 
-        {/* <FeaturesSection /> */}
+        <FeaturesSection />
 
         {/* <Features2Section /> */}
 
@@ -67,7 +70,7 @@ export default async function HomePage(props: HomePageProps) {
 
         {/* <NewsletterCard /> */}
 
-        <DiscordWidget />
+        {/* <DiscordWidget /> */}
       </div>
     </>
   );
